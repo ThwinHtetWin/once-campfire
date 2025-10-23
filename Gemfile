@@ -30,7 +30,7 @@ gem "image_processing", ">= 1.2"
 
 # Telemetry
 gem "sentry-ruby"
-gem "sentry-rails"
+gem "sentry-rails", ">= 5.27.0"
 
 # Other
 gem "bcrypt"
