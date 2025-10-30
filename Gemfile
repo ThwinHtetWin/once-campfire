@@ -55,5 +55,5 @@ group :test do
   gem "capybara"
   gem "mocha"
   gem "selenium-webdriver"
-  gem "webmock", require: false
+  gem "webmock", ">= 3.25.2", require: false
 end
