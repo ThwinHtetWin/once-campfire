@@ -14,7 +14,7 @@ gem "redis", "~> 5.4"
 gem "puma", "~> 6.6"
 
 # Jobs
-gem "resque", "~> 2.7.0"
+gem "resque", "~> 3.0.0"
 gem "resque-pool", "~> 0.7.1"
 
 # Assets
